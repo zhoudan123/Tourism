@@ -1,0 +1,248 @@
+{
+    "error_code": 0,
+    "result": "ok",
+    "data": {
+        "item": [
+            {
+                "id": 104728,
+                "tag": "签证",
+                "title": "美国个人旅游签证(全国受理,可加急办理,EVUS更新,顺丰包回邮)",
+                "imgsrc": "//pic.qyer.com/public/lastmin/supproduct/2017/07/24/15008869233155/120x120",
+                "url": "//z.qyer.com/deal/104728/",
+                "price": "1188</em>元起",
+                "datetime": "1970/01 - 2017/08",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|104728"
+            },
+            {
+                "id": 70128,
+                "tag": "签证",
+                "title": "加拿大个人旅游签证(全国收取)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2017/04/18/14925074173742/120x120",
+                "url": "//z.qyer.com/deal/70128/",
+                "price": "899</em>元起",
+                "datetime": "2016/06 - 2017/06",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|70128"
+            },
+            {
+                "id": 50376,
+                "tag": "签证",
+                "title": "申根16国个人旅游签证(全国受理)",
+                "imgsrc": "//pic.qyer.com/public/lastmin/supproduct/2017/07/31/15014947123528/120x120",
+                "url": "//z.qyer.com/deal/50376/",
+                "price": "750</em>元起",
+                "datetime": "2015/08 - 2016/05",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|50376"
+            },
+            {
+                "id": 86048,
+                "tag": "签证",
+                "title": "【北京领区,限量抢购】日本个人旅游签证(单次/多次/简化办理;拒签退款)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/10/10/14760699003588/120x120",
+                "url": "//z.qyer.com/deal/86048/",
+                "price": "285</em>元起",
+                "datetime": "长期有效",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|86048"
+            },
+            {
+                "id": 49024,
+                "tag": "签证",
+                "title": "【上海领区,拒签全退】日本个人旅游签证(单次/多次可选;送1日Wi-Fi)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2015/08/11/14392699212544/120x120",
+                "url": "//z.qyer.com/deal/49024/",
+                "price": "79</em>元起",
+                "datetime": "2015/12 - 2016/12",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|49024"
+            },
+            {
+                "id": 87510,
+                "tag": "酒店",
+                "title": "普吉岛努克迪卡塔海滩酒店Nook·dee kata beach Phuket 特惠住宿（含双早）",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/10/31/14779062046096/120x120",
+                "url": "//z.qyer.com/deal/87510/",
+                "price": "399</em>元起",
+                "datetime": "2016/11 - 2017/10",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|87510"
+            },
+            {
+                "id": 59384,
+                "tag": "城市玩乐",
+                "title": "日本冲绳蝴蝶园门票（电子换票证）",
+                "imgsrc": "//pic.qyer.com/public/supplier/jd/2016/07/06/14677957699920/120x120",
+                "url": "//z.qyer.com/deal/59384/",
+                "price": "15</em>元起",
+                "datetime": "2015/11 - 2017/09",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|59384"
+            },
+            {
+                "id": 73055,
+                "tag": "酒店",
+                "title": "(五星,高兰)甲米兰达岛拉维瓦林温泉度假酒店 Rawi Warin Resort and Spa(含双早)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/04/18/14609731611851/120x120",
+                "url": "//z.qyer.com/deal/73055/",
+                "price": "460</em>元起",
+                "datetime": "2016/04 - 2017/10",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|73055"
+            },
+            {
+                "id": 86907,
+                "tag": "城市玩乐",
+                "title": "【一站直达/省钱便捷】东京成田/羽田机场至市区利木津巴士票",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2017/03/24/14903242835796/120x120",
+                "url": "//z.qyer.com/deal/86907/",
+                "price": "38</em>元起",
+                "datetime": "2016/01 - 2017/12",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|86907"
+            },
+            {
+                "id": 65769,
+                "tag": "酒店",
+                "title": "(四星,市中心地区)沙巴格兰迪斯酒店 Grandis Hotels and Resorts (含早餐,连住2晚送1晚餐,连住4晚送2晚餐)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/01/28/14539747401083/120x120",
+                "url": "//z.qyer.com/deal/65769/",
+                "price": "528</em>元起",
+                "datetime": "2016/02 - 2017/11",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|65769"
+            },
+            {
+                "id": 56518,
+                "tag": "城市玩乐",
+                "title": "【赠免税店优惠券】泰国普吉岛环线穿梭巴士票（多时段）",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2015/11/25/14484490428122/120x120",
+                "url": "//z.qyer.com/deal/56518/",
+                "price": "25</em>元起",
+                "datetime": "2015/10 - 2017/09",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|56518"
+            },
+            {
+                "id": 84681,
+                "tag": "酒店",
+                "title": "(四星,含早餐)巴厘岛库塔福朋喜来登酒店 Four Points by Sheraton Bali Kuta Bali",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/09/13/14737612426664/120x120",
+                "url": "//z.qyer.com/deal/84681/",
+                "price": "530</em>元起",
+                "datetime": "2016/09 - 2017/10",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|84681"
+            },
+            {
+                "id": 14527,
+                "tag": "城市玩乐",
+                "title": "【赠免税店优惠券】泰国普吉珊瑚岛Nikorn Marine一日游(英文导游,可加订多种水上项目)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2015/12/24/14509495139226/120x120",
+                "url": "//z.qyer.com/deal/14527/",
+                "price": "155</em>元起",
+                "datetime": "2015/01 - 2017/12",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|14527"
+            },
+            {
+                "id": 58426,
+                "tag": "酒店",
+                "title": "(四星,清迈古城)清迈菩提塞雷纳酒店 Bodhi Serene, Chiang Mai(含早)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2015/11/03/14465446273484/120x120",
+                "url": "//z.qyer.com/deal/58426/",
+                "price": "580</em>元起",
+                "datetime": "2015/11 - 2018/02",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|58426"
+            },
+            {
+                "id": 85997,
+                "tag": "城市玩乐",
+                "title": "帝都的国中国—东交民巷半日游",
+                "imgsrc": "//pic.qyer.com/public/supplier/jd/2017/04/07/14915348792170/120x120",
+                "url": "//z.qyer.com/deal/85997/",
+                "price": "118</em>元起",
+                "datetime": "2016/10 - 2017/11",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|85997"
+            },
+            {
+                "id": 84921,
+                "tag": "酒店",
+                "title": "[可用券]【五星,含早餐】仰光察殿仰光皇家湖酒店(Chatrium Hotel Royal Lake Yangon)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/09/19/14742783389395/120x120",
+                "url": "//z.qyer.com/deal/84921/",
+                "price": "775</em>元起",
+                "datetime": "2016/09 - 2017/10",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|84921"
+            },
+            {
+                "id": 77390,
+                "tag": "城市玩乐",
+                "title": "美国旧金山笛洋美术馆门票",
+                "imgsrc": "//pic.qyer.com/public/supplier/jd/2016/06/02/14648394856111/120x120",
+                "url": "//z.qyer.com/deal/77390/",
+                "price": "54</em>元起",
+                "datetime": "2017/03 - 2017/12",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|77390"
+            },
+            {
+                "id": 73096,
+                "tag": "酒店",
+                "title": "(四星,奥南海滩)甲米萨拉塔拉伊度假酒店 Holiday Inn Resort Krabi Aonang Beach 1晚住宿含双早",
+                "imgsrc": "//pic.qyer.com/lastminute/library/2015/04/16/552f2bd8edc56.jpg/120x120",
+                "url": "//z.qyer.com/deal/73096/",
+                "price": "680</em>元起",
+                "datetime": "2016/04 - 2017/10",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|73096"
+            },
+            {
+                "id": 92727,
+                "tag": "城市玩乐",
+                "title": "【穷游Q-Home独家】日本京都祇园日式茶道体验",
+                "imgsrc": "//pic.qyer.com/public/supplier/jd/2017/02/04/14862066736744/120x120",
+                "url": "//z.qyer.com/deal/92727/",
+                "price": "128</em>元起",
+                "datetime": "1970/01 - 2017/11",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|92727"
+            },
+            {
+                "id": 59239,
+                "tag": "酒店",
+                "title": "普吉岛最佳西方芭东海滩酒店特惠住宿（含双早）",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2015/11/11/14472330189130/120x120",
+                "url": "//z.qyer.com/deal/59239/",
+                "price": "291</em>元起",
+                "datetime": "2015/11 - 2017/06",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|59239"
+            },
+            {
+                "id": 61961,
+                "tag": "城市玩乐",
+                "title": "德国德累斯顿森帕歌剧院门票(含英文/德文讲解)",
+                "imgsrc": "//pic.qyer.com/public/supplier/jd/2015/12/18/14504104017618/120x120",
+                "url": "//z.qyer.com/deal/61961/",
+                "price": "87</em>元起",
+                "datetime": "1970/01 - 2017/12",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|61961"
+            },
+            {
+                "id": 66298,
+                "tag": "酒店",
+                "title": "(五星,卡伦海滩)普吉岛卡伦海滩瑞享度假村及水疗中心 Moevenpick Resort and Spa Karon Beach Phuket(含早餐)",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/02/03/14544931936359/120x120",
+                "url": "//z.qyer.com/deal/66298/",
+                "price": "895</em>元起",
+                "datetime": "2016/02 - 2018/04",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|66298"
+            },
+            {
+                "id": 72709,
+                "tag": "城市玩乐",
+                "title": "【达人线路】踏屐走西关｜Tang Walk大屋寻幽半日行",
+                "imgsrc": "//pic.qyer.com/public/supplier/jd/2016/04/12/14604301422155/120x120",
+                "url": "//z.qyer.com/deal/72709/",
+                "price": "138</em>元起",
+                "datetime": "1970/01 - 2017/11",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|72709"
+            },
+            {
+                "id": 81718,
+                "tag": "酒店",
+                "title": "澳门金沙城中心喜来登酒店2天1晚双人价（豪华客房,提前14日预定优惠）",
+                "imgsrc": "//pic.qyer.com/public/supplier/lastminute/2016/09/01/14727232275917/120x120",
+                "url": "//z.qyer.com/deal/81718/",
+                "price": "805</em>元起",
+                "datetime": "2016/08 - 2017/06",
+                "ra_arg": "cc314c5d4e60d034cd721113f2b4fa27d9471efd|81718"
+            }
+        ]
+    }
+}
